@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class FirstExample {
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver","D:\\MP\\Automation Test\\Selenium_Tutorial\\chromedriver.exe");
-        WebDriver driver = new ChromeDriver();ffff
+        WebDriver driver = new ChromeDriver();
         String baseURL = "https://output.jsbin.com/usidix/1";
         driver.get(baseURL);
         driver.findElement(By.cssSelector("input[value='Go!']")).click();
