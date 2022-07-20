@@ -1,0 +1,57 @@
+diff a/.idea/workspace.xml b/.idea/workspace.xml	(rejected hunks)
+@@ -2,25 +2,54 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="0bcefc07-a386-457a-a82c-83324592d5e9" name="Changes" comment="">
++<<<<<<< HEAD
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++=======
++      <change afterPath="$PROJECT_DIR$/src/Find_Elements.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/FirstExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstExample.java" afterDir="false" />
++>>>>>>> phu-home
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++<<<<<<< HEAD
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
++=======
++  <component name="GitSEFilterConfiguration">
++    <file-type-list>
++      <filtered-out-file-type name="LOCAL_BRANCH" />
++      <filtered-out-file-type name="REMOTE_BRANCH" />
++      <filtered-out-file-type name="TAG" />
++      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
++    </file-type-list>
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="jar://$PROJECT_DIR$/selenium-server-standalone-3.141.59 (1).jar!/org/openqa/selenium/WebDriver.class" root0="FORCE_HIGHLIGHTING" />
++>>>>>>> phu-home
+   </component>
+   <component name="ProjectId" id="2BZPF6AAxSGe9sHHGughtTNxSXA" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="1" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
++<<<<<<< HEAD
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
